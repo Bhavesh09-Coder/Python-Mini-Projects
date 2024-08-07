@@ -1,4 +1,4 @@
-# Python Mini Projects Repository
+# Python Mini Projects
 
 Welcome to the Python Mini Projects Repository! This collection features Python projects categorized by difficulty: Beginner, Intermediate, and Advanced. Each project highlights different programming concepts and practical applications.
 
