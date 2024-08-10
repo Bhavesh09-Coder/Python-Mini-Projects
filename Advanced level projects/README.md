@@ -5,21 +5,23 @@ Welcome to my collection of advanced-level Python projects! These projects delve
 ## Projects
 
 ### 1. Food Recommendation System
-**Folder**: [Food Recommendation System](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/787e8df35fc7c368a355e3d5e6968568cbdc747c/Advanced%20level%20projects/Food-recommendation%20system)
-**File**: `Python project Food-recommendation system.ipynb`
+**File**: [Python project Food-recommendation system.ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/787e8df35fc7c368a355e3d5e6968568cbdc747c/Advanced%20level%20projects/Food-recommendation%20system)
 
 A system that recommends food items based on user preferences and dietary restrictions, leveraging algorithms to provide personalized suggestions.
 
 ### 2. Virtual File System
-**Folder**: [Virtual File System](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/787e8df35fc7c368a355e3d5e6968568cbdc747c/Advanced%20level%20projects/Virtual%20File%20System)
-**File**: `Python project Virtual File System.ipynb`
+**File**: [Python project Virtual File System.ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/787e8df35fc7c368a355e3d5e6968568cbdc747c/Advanced%20level%20projects/Virtual%20File%20System)
 
 A simulation of a file system that allows for the creation, deletion, and manipulation of files and directories, mimicking real-world file system operations.
 
 ### 3. Real-Time Strategy Game
-**Folder**: [Real-Time Strategy Game](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/787e8df35fc7c368a355e3d5e6968568cbdc747c/Advanced%20level%20projects/Real-time%20strategy%20game)
-**File**: `Real-time strategy game .ipynb`
+**File**: [Real-time strategy game .ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/76f3f0d155f2c39242d1a4c407ca790a6caeefbe/Advanced%20level%20projects/Real-Time%20Strategy%20Game)
 
 A complex game that involves strategic decision-making and real-time gameplay mechanics, where players manage resources and units to achieve objectives.
+
+### 4. Snake Game
+**File**: [Snake_Game.ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/76f3f0d155f2c39242d1a4c407ca790a6caeefbe/Advanced%20level%20projects/Snake_Game)
+
+A classic arcade game where the player controls a snake that grows longer as it eats, avoiding collisions and navigating through the game area.
 
 Enjoy exploring these advanced projects! 🚀
