@@ -44,14 +44,4 @@ An interactive text-based adventure game where the player makes choices to navig
 
 A classic Tic-Tac-Toe game where players can compete against each other or the computer.
 
-### 9. Student Grade Management System
-**File**: [main.py](./Student%20Grade%20Management%20System/main.py)
-
-A system for managing student grades, including adding, editing, and viewing student grades.
-
-### 10. Temperature Conversion Tool
-**File**: [main.py](./Temperature%20Conversion%20Tool/main.py)
-
-A tool for converting temperatures between different units, such as Celsius and Fahrenheit.
-
 Enjoy exploring these projects! 🚀
