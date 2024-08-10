@@ -1,72 +1,123 @@
-# Python Mini Projects
+# Python Beginner Level Projects
 
-Welcome to the Python Mini Projects Repository! This collection features Python projects categorized by difficulty: Beginner, Intermediate, and Advanced. Each project highlights different programming concepts and practical applications.
+Welcome to my collection of Python projects! Each project demonstrates different programming concepts and skills. Below you'll find a brief description of each project along with the associated file.
 
-## Table of Contents
-- [Beginner Level Projects](#beginner-level-projects)
-- [Intermediate Level Projects](#intermediate-level-projects)
-- [Advanced Level Projects](#advanced-level-projects)
+## Projects
 
-## Beginner Level Projects
+### 1. Higher Lower Game
+**File**: [Higher_Lower_Game](./Higher%20Lower%20Game)
 
-1. **Higher Lower Game**  
-   **File**: [Higher_Lower_Game.py](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/blob/main/Beginner%20Level%20Projects/Higher_Lower_Game.py)
+A simple game where the player must guess whether the next randomly generated number will be higher or lower than the current number.
 
-2. **Dice Simulator**  
-   **File**: [Python project Dice Simulator.ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/blob/main/Beginner%20Level%20Projects/Python%20project%20Dice%20Simulator.ipynb)
+### 2. Dice Simulator
+**File**: [Dice Simulator](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/09e9ef223227370eae98b04221b73b0baea516c8/Beginner%20Projects/Dice%20Simulator)
 
-3. **Expense Tracker**  
-   **File**: [Python project Expense Tracker.ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/blob/main/Beginner%20Level%20Projects/Python%20project%20Expense%20Tracker.ipynb)
+A program that simulates the rolling of a dice, generating a random number between 1 and 6 each time.
 
-4. **Quiz Game**  
-   **File**: [Python project Quiz-Game (1).ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/blob/main/Beginner%20Level%20Projects/Python%20project%20Quiz-Game%20(1).ipynb)
+### 3. Expense Tracker
+**File**: [Expense Tracker](./Expense%20Tracker)
 
-5. **Random Password Generator**  
-   **File**: [Python project Random password generator.ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/blob/main/Beginner%20Level%20Projects/Python%20project%20Random%20password%20generator.ipynb)
+A basic expense tracking application that allows users to input their expenses and view a summary.
 
-6. **Rock, Paper, Scissors Game**  
-   **File**: [Python project Rock,paper & scissors game.ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/blob/main/Beginner%20Level%20Projects/Python%20project%20Rock,paper%20&%20scissors%20game.ipynb)
+### 4. Quiz Game
+**File**: [Quiz Game](./Quiz%20Game)
 
-7. **Text-Based Adventure Game**  
-   **File**: [Python project Text based adventure game.ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/blob/main/Beginner%20Level%20Projects/Python%20project%20Text%20based%20adventure%20game.ipynb)
+A simple quiz game that asks multiple-choice questions and provides a score at the end based on the user's answers.
 
-8. **Tic-Tac-Toe Game**  
-   **File**: [tic_tac_toe_game.py](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/blob/main/Beginner%20Level%20Projects/tic_tac_toe_game.py)
+### 5. Random Password Generator
+**File**: [Random Password Generator](./Random%20Password%20Generator)
 
-## Intermediate Level Projects
+A tool that generates random passwords of specified lengths, including options for different character sets.
 
-1. **Binary Search Algorithm Visualizer**  
-   **File**: [Binary Search Algorithm Visualizer.ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/blob/main/Intermediate%20Level%20Projects/Binary%20Search%20Algorithm%20Visualizer.ipynb)
+### 6. Rock, Paper, Scissors Game
+**File**: [Rock Paper & Scissors Game](./Rock%20Paper%20&%20Scissors%20Game)
 
-2. **Coding Language Learning Game**  
-   **File**: [Coding Language Learning Game.ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/blob/main/Intermediate%20Level%20Projects/Coding%20Language%20Learning%20Game.ipynb)
+A classic rock, paper, scissors game where the user plays against the computer.
 
-3. **Coffee Machine**  
-   **File**: [Coffee machine.ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/blob/main/Intermediate%20Level%20Projects/Coffee%20machine.ipynb)
+### 7. Text-Based Adventure Game
+**File**: [Text-Based Adventure Game](./Text-Based%20Adventure%20Game)
 
-4. **Guess the Number**  
-   **File**: [Guess_the_number.ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/blob/main/Intermediate%20Level%20Projects/Guess_the_number.ipynb)
+An interactive text-based adventure game where the player makes choices to navigate through a story.
 
-5. **Health Tracker**  
-   **File**: [Health Tracker.ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/blob/main/Intermediate%20Level%20Projects/Health%20Tracker.ipynb)
+### 8. Tic-Tac-Toe Game
+**File**: [Tic-Tac-Toe Game](./Tic-Tac-Toe%20Game)
 
-6. **Hotel Management System**  
-   **File**: [Hotel management system.ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/blob/main/Intermediate%20Level%20Projects/Hotel%20management%20system.ipynb)
+A classic Tic-Tac-Toe game where players can compete against each other or the computer.
 
-7. **Simple Banking System**  
-   **File**: [Python project Simple Banking System.ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/blob/main/Intermediate%20Level%20Projects/Python%20project%20Simple%20Banking%20System.ipynb)
+### 9. Hangman Game
+**File**: [Hangman Game](./Hangman%20Game)
 
-8. **Stock Market Analysis Tool**  
-   **File**: [Python project Stock Market Analysis Tool (1).ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/blob/main/Intermediate%20Level%20Projects/Python%20project%20Stock%20Market%20Analysis%20Tool%20(1).ipynb)
+A word-guessing game where the player attempts to guess the word by suggesting letters within a certain number of guesses.
 
-9. **Text-Based Loan Calculator**  
-   **File**: [Python project Text-Based Loan Calculator.ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/blob/main/Intermediate%20Level%20Projects/Python%20project%20Text-Based%20Loan%20Calculator.ipynb)
+### 10. Student Grade Management System
+**File**: [Student Grade Management System](./Student%20Grade%20Management%20System)
 
-10. **Unit Converter**  
-    **File**: [Python project Unit convertor.ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/blob/main/Intermediate%20Level%20Projects/Python%20project%20Unit%20convertor.ipynb)
+A simple system to manage and track student grades, allowing teachers to input, update, and view grades.
 
-11. **Web Crawler**  
-    **File**: [Python project Web Crawler (1).ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/blob/main/Intermediate%20Level%20Projects/Python%20project%20Web%20Crawler%20(1).ipynb)
+### 11. Temperature Conversion Tool
+**File**: [Temperature Conversion Tool](./Temperature%20Conversion%20Tool)
+
+A tool that converts temperatures between different units such as Celsius, Fahrenheit, and Kelvin.
+
+Enjoy exploring these projects! 🚀
+
+# Python Intermediate Level Projects
+
+Welcome to my collection of intermediate-level Python projects! These projects explore various concepts and practical applications. Below you'll find a brief description of each project along with a link to the associated folder.
+
+## Projects
+
+### 1. Binary Search Algorithm Visualizer
+**File**: [Binary Search Algorithm Visualizer](./Binary%20Search%20Algorithm%20Visualizer)
+
+A visualizer for the binary search algorithm, showing how the algorithm efficiently finds a target value within a sorted array.
+
+### 2. Coding Language Learning Game
+**File**: [Coding Language Learning Game](./Coding%20Language%20Learning%20Game)
+
+An interactive game designed to help users learn programming languages through engaging challenges and quizzes.
+
+### 3. Coffee Machine
+**File**: [Coffee Machine](./Coffee%20Machine)
+
+A simulation of a coffee machine that takes user input to prepare different types of coffee based on available ingredients.
+
+### 4. Guess the Number
+**File**: [Guess the number](./Guess%20the%20number)
+
+A simple game where the player has to guess a randomly generated number within a certain range.
+
+### 5. Health Tracker
+**File**: [Health Tracker](./Health%20Tracker)
+
+A tool for tracking various health metrics such as diet, exercise, and sleep, providing insights into overall health.
+
+### 6. Hotel Management System
+**File**: [Hotel Management System](./Hotel%20Management%20System)
+
+A system for managing hotel reservations, including booking rooms, checking availability, and managing guest information.
+
+### 7. Simple Banking System
+**File**: [Simple Banking System](./Simple%20Banking%20System)
+
+A basic banking system that allows users to create accounts, deposit and withdraw funds, and check their balance.
+
+### 8. Stock Market Analysis Tool
+**File**: [Stock Market Analysis Tool](./Stock%20Market%20Analysis%20Tool)
+
+A tool for analyzing stock market data, including visualizations of stock trends and performance metrics.
+
+### 9. Text-Based Loan Calculator
+**File**: [Text-Based Loan Calculator](./Text-Based%20Loan%20Calculator)
+
+A calculator that computes loan details based on user input, including interest rates and repayment periods.
+
+### 10. Unit Converter
+**File**: [Unit Converter](./Unit%20Converter)
+
+A converter for various units of measurement, including length, weight, temperature, and more.
+
+Enjoy exploring these intermediate-level projects! 🚀
 
 ## Advanced Level Projects
 
