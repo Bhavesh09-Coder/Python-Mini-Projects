@@ -67,54 +67,53 @@ Welcome to my collection of intermediate-level Python projects! These projects e
 
 ## Projects
 
-### 1. Binary Search Algorithm Visualizer
+## 1. Binary Search Algorithm Visualizer
 **File**: [Binary Search Algorithm Visualizer](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/e6533b59bdd2482f81a2d1270bc7bf3873bd60e8/Intermediate%20level%20projects/Binary%20Search%20Algorithm%20Visualizer)
-
 
 A visualizer for the binary search algorithm, showing how the algorithm efficiently finds a target value within a sorted array.
 
-### 2. Coding Language Learning Game
-**File**: [Coding Language Learning Game](./Coding%20Language%20Learning%20Game)
+## 2. Coding Language Learning Game
+**File**: [Coding Language Learning Game](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/e6533b59bdd2482f81a2d1270bc7bf3873bd60e8/Intermediate%20level%20projects/Coding%20Language%20Learning%20Game)
 
 An interactive game designed to help users learn programming languages through engaging challenges and quizzes.
 
-### 3. Coffee Machine
-**File**: [Coffee Machine](./Coffee%20Machine)
+## 3. Coffee Machine
+**File**: [Coffee Machine](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/e6533b59bdd2482f81a2d1270bc7bf3873bd60e8/Intermediate%20level%20projects/Coffee%20Machine)
 
 A simulation of a coffee machine that takes user input to prepare different types of coffee based on available ingredients.
 
-### 4. Guess the Number
-**File**: [Guess the number](./Guess%20the%20number)
+## 4. Guess the Number
+**File**: [Guess the Number](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/e6533b59bdd2482f81a2d1270bc7bf3873bd60e8/Intermediate%20level%20projects/Guess%20the%20Number)
 
 A simple game where the player has to guess a randomly generated number within a certain range.
 
-### 5. Health Tracker
-**File**: [Health Tracker](./Health%20Tracker)
+## 5. Health Tracker
+**File**: [Health Tracker](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/e6533b59bdd2482f81a2d1270bc7bf3873bd60e8/Intermediate%20level%20projects/Health%20Tracker)
 
 A tool for tracking various health metrics such as diet, exercise, and sleep, providing insights into overall health.
 
-### 6. Hotel Management System
-**File**: [Hotel Management System](./Hotel%20Management%20System)
+## 6. Hotel Management System
+**File**: [Hotel Management System](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/e6533b59bdd2482f81a2d1270bc7bf3873bd60e8/Intermediate%20level%20projects/Hotel%20Management%20System)
 
 A system for managing hotel reservations, including booking rooms, checking availability, and managing guest information.
 
-### 7. Simple Banking System
-**File**: [Simple Banking System](./Simple%20Banking%20System)
+## 7. Simple Banking System
+**File**: [Simple Banking System](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/e6533b59bdd2482f81a2d1270bc7bf3873bd60e8/Intermediate%20level%20projects/Simple%20Banking%20System)
 
 A basic banking system that allows users to create accounts, deposit and withdraw funds, and check their balance.
 
-### 8. Stock Market Analysis Tool
-**File**: [Stock Market Analysis Tool](./Stock%20Market%20Analysis%20Tool)
+## 8. Stock Market Analysis Tool
+**File**: [Stock Market Analysis Tool](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/e6533b59bdd2482f81a2d1270bc7bf3873bd60e8/Intermediate%20level%20projects/Stock%20Market%20Analysis%20Tool)
 
 A tool for analyzing stock market data, including visualizations of stock trends and performance metrics.
 
-### 9. Text-Based Loan Calculator
-**File**: [Text-Based Loan Calculator](./Text-Based%20Loan%20Calculator)
+## 9. Text-Based Loan Calculator
+**File**: [Text-Based Loan Calculator](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/e6533b59bdd2482f81a2d1270bc7bf3873bd60e8/Intermediate%20level%20projects/Text-Based%20Loan%20Calculator)
 
 A calculator that computes loan details based on user input, including interest rates and repayment periods.
 
-### 10. Unit Converter
-**File**: [Unit Converter](./Unit%20Converter)
+## 10. Unit Converter
+**File**: [Unit Converter](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/e6533b59bdd2482f81a2d1270bc7bf3873bd60e8/Intermediate%20level%20projects/Unit%20Converter)
 
 A converter for various units of measurement, including length, weight, temperature, and more.
 
