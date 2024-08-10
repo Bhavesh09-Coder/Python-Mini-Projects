@@ -117,20 +117,18 @@ A calculator that computes loan details based on user input, including interest 
 
 A converter for various units of measurement, including length, weight, temperature, and more.
 
-Enjoy exploring these intermediate-level projects! 🚀
-
 ## Advanced Level Projects
 
 1. **Food Recommendation System**  
-   **File**: [Python project Food-recommendation system.ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/787e8df35fc7c368a355e3d5e6968568cbdc747c/Advanced%20level%20projects/Food-recommendation%20system)
+   **File**: [Python project Food-recommendation system](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/787e8df35fc7c368a355e3d5e6968568cbdc747c/Advanced%20level%20projects/Food-recommendation%20system)
 
 2. **Virtual File System**  
-   **File**: [Python project Virtual File System.ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/787e8df35fc7c368a355e3d5e6968568cbdc747c/Advanced%20level%20projects/Virtual%20File%20System)
+   **File**: [Python project Virtual File System](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/787e8df35fc7c368a355e3d5e6968568cbdc747c/Advanced%20level%20projects/Virtual%20File%20System)
 
 3. **Real-Time Strategy Game**  
-   **File**: [Real-time strategy game .ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/76f3f0d155f2c39242d1a4c407ca790a6caeefbe/Advanced%20level%20projects/Real-Time%20Strategy%20Game)
+   **File**: [Real-time strategy game](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/76f3f0d155f2c39242d1a4c407ca790a6caeefbe/Advanced%20level%20projects/Real-Time%20Strategy%20Game)
 
 4. **Snake Game**  
-   **File**: [Snake_Game.ipynb](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/76f3f0d155f2c39242d1a4c407ca790a6caeefbe/Advanced%20level%20projects/Snake_Game)
+   **File**: [Snake_Game](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/76f3f0d155f2c39242d1a4c407ca790a6caeefbe/Advanced%20level%20projects/Snake_Game)
 
 Explore these projects to enhance your Python skills and tackle a range of programming challenges! 🚀
