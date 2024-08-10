@@ -68,7 +68,8 @@ Welcome to my collection of intermediate-level Python projects! These projects e
 ## Projects
 
 ### 1. Binary Search Algorithm Visualizer
-**File**: [Binary Search Algorithm Visualizer](./Binary%20Search%20Algorithm%20Visualizer)
+**File**: [Binary Search Algorithm Visualizer](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/e6533b59bdd2482f81a2d1270bc7bf3873bd60e8/Intermediate%20level%20projects/Binary%20Search%20Algorithm%20Visualizer)
+
 
 A visualizer for the binary search algorithm, showing how the algorithm efficiently finds a target value within a sorted array.
 
