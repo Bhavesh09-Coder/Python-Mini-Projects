@@ -10,7 +10,7 @@ Welcome to my collection of Python projects! Each project demonstrates different
 A simple game where the player must guess whether the next randomly generated number will be higher or lower than the current number.
 
 ### 2. Dice Simulator
-**File**: [Dice Simulator](./Beginner%20Projects/Dice%20Simulator)
+**File**: [Dice SImulator](./Beginner%20Projects/Dice%20SImulator)
 
 A program that simulates the rolling of a dice, generating a random number between 1 and 6 each time.
 
