@@ -34,8 +34,8 @@ A simple alarm clock that allows users to set alarms for specific times.
 
 A timer that counts down from a specified time and alerts the user when the time is up.
 
-### 7. Word Counter
-**File**: [Word Counter](./Word%20Counter)
+### 7. To-do-List
+**File**: [To-do-List](./To-do-List)
 
 A tool that counts the number of words in a given text.
 
