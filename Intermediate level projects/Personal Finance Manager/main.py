@@ -1,4 +1,4 @@
-# Personal Finance Manager
+# Project Title : Personal Finance Manager
 
 import datetime
 
