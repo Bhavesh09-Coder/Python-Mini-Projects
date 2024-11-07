@@ -1,6 +1,3 @@
-# Importing the json module to work with JSON data
-import json
-
 # A dictionary to store contacts where the key is the contact's name and the value is their phone number
 phone_book = {}
 
@@ -55,18 +52,21 @@ def display_contacts():
     else:
         print("No contacts in phone book.")
 
-# Function to save contacts to a file
+# Function to save contacts to a plain text file
 def save_contacts():
-    with open('phone_book.json', 'w') as file:
-        json.dump(phone_book, file)
+    with open('phone_book.txt', 'w') as file:
+        for name, phone in phone_book.items():
+            file.write(f"{name}: {phone}\n")
     print("Contacts saved successfully.")
 
-# Function to load contacts from a file
+# Function to load contacts from a plain text file
 def load_contacts():
     global phone_book
     try:
-        with open('phone_book.json', 'r') as file:
-            phone_book = json.load(file)
+        with open('phone_book.txt', 'r') as file:
+            for line in file:
+                name, phone = line.strip().split(": ")
+                phone_book[name] = phone
         print("Contacts loaded successfully.")
     except FileNotFoundError:
         print("No saved contacts found.")
