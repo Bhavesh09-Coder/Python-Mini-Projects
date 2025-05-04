@@ -27,21 +27,25 @@ A classic arcade game where the player controls a snake that grows longer as it 
 ### 5. Data Entry Bot
 
 **File**: [Data Entry Bot](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/main/Advanced%20level%20projects/Data%20Entry%20Bot)
+
 Automates repetitive data entry tasks into forms or spreadsheets using GUI automation tools.
 
 ### 6. Movie Scraper
 
 **File**: [Movie Scraper](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/main/Advanced%20level%20projects/Movie%20Scraper)
+
 Scrapes movie details from web sources and organizes them into a searchable format.
 
 ### 7. Online Voting System
 
 **File**: [Online Voting System](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/main/Advanced%20level%20projects/Online%20Voting%20System)
+
 Implements a secure and interactive online voting mechanism with authentication and vote counting.
 
 ### 8. Random Movie Selector
 
 **File**: [Random Movie Selector](https://github.com/Bhavesh09-Coder/Python-Mini-Projects/tree/main/Advanced%20level%20projects/Random%20Movie%20Selector)
+
 Selects random movies from a predefined list or API for effortless entertainment decisions.
 
 Enjoy exploring these advanced projects! 🚀
